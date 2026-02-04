@@ -1,3 +1,4 @@
 import os
 import random
-random.loging()
+import cythonize -i
+random.loging.()
