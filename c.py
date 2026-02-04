@@ -1,3 +1,3 @@
 import os
-import random
+import c
 c.loging()
